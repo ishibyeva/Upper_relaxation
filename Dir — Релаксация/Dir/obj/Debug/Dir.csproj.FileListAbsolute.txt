@@ -1,0 +1,32 @@
+c:\users\acer\documents\visual studio 2012\Projects\Dir\Dir\bin\Debug\Dir.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\Dir\Dir\bin\Debug\Dir.exe
+c:\users\acer\documents\visual studio 2012\Projects\Dir\Dir\bin\Debug\Dir.pdb
+c:\users\acer\documents\visual studio 2012\Projects\Dir\Dir\obj\Debug\Dir.Form1.resources
+c:\users\acer\documents\visual studio 2012\Projects\Dir\Dir\obj\Debug\Dir.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2012\Projects\Dir\Dir\obj\Debug\Dir.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2012\Projects\Dir\Dir\obj\Debug\Dir.exe
+c:\users\acer\documents\visual studio 2012\Projects\Dir\Dir\obj\Debug\Dir.pdb
+c:\users\acer\documents\visual studio 2012\Projects\Dir\Dir\obj\Debug\Dir.Form2.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Dir\Dir\obj\Debug\Dir.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Dir\Dir\obj\Debug\Dir.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir\Dir\bin\Debug\Dir.exe.config
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir\Dir\bin\Debug\Dir.exe
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir\Dir\bin\Debug\Dir.pdb
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir\Dir\obj\Debug\Dir.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir\Dir\obj\Debug\Dir.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir\Dir\obj\Debug\Dir.Form2.resources
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir\Dir\obj\Debug\Dir.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir\Dir\obj\Debug\Dir.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir\Dir\obj\Debug\Dir.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir\Dir\obj\Debug\Dir.exe
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir\Dir\obj\Debug\Dir.pdb
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir — Релаксация\Dir\bin\Debug\Dir.exe.config
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir — Релаксация\Dir\obj\Debug\Dir.exe
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir — Релаксация\Dir\obj\Debug\Dir.pdb
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir — Релаксация\Dir\bin\Debug\Dir.exe
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir — Релаксация\Dir\bin\Debug\Dir.pdb
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir — Релаксация\Dir\obj\Debug\Dir.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir — Релаксация\Dir\obj\Debug\Dir.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir — Релаксация\Dir\obj\Debug\Dir.Form2.resources
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir — Релаксация\Dir\obj\Debug\Dir.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2019\Project\Dir — Релаксация\Dir\obj\Debug\Dir.csproj.GenerateResource.Cache
