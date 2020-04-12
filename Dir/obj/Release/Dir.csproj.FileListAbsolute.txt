@@ -1,0 +1,11 @@
+C:\Users\DNS\Downloads\Upper_relaxation-master\Upper_relaxation-master\Dir — Релаксация\Dir\bin\Release\Dir.exe.config
+C:\Users\DNS\Downloads\Upper_relaxation-master\Upper_relaxation-master\Dir — Релаксация\Dir\bin\Release\Dir.exe
+C:\Users\DNS\Downloads\Upper_relaxation-master\Upper_relaxation-master\Dir — Релаксация\Dir\bin\Release\Dir.pdb
+C:\Users\DNS\Downloads\Upper_relaxation-master\Upper_relaxation-master\Dir — Релаксация\Dir\obj\Release\Dir.csprojAssemblyReference.cache
+C:\Users\DNS\Downloads\Upper_relaxation-master\Upper_relaxation-master\Dir — Релаксация\Dir\obj\Release\Dir.Form1.resources
+C:\Users\DNS\Downloads\Upper_relaxation-master\Upper_relaxation-master\Dir — Релаксация\Dir\obj\Release\Dir.Form2.resources
+C:\Users\DNS\Downloads\Upper_relaxation-master\Upper_relaxation-master\Dir — Релаксация\Dir\obj\Release\Dir.Properties.Resources.resources
+C:\Users\DNS\Downloads\Upper_relaxation-master\Upper_relaxation-master\Dir — Релаксация\Dir\obj\Release\Dir.csproj.GenerateResource.cache
+C:\Users\DNS\Downloads\Upper_relaxation-master\Upper_relaxation-master\Dir — Релаксация\Dir\obj\Release\Dir.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Downloads\Upper_relaxation-master\Upper_relaxation-master\Dir — Релаксация\Dir\obj\Release\Dir.exe
+C:\Users\DNS\Downloads\Upper_relaxation-master\Upper_relaxation-master\Dir — Релаксация\Dir\obj\Release\Dir.pdb
